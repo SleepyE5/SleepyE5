@@ -27,18 +27,16 @@ is public and is what the launcher reads.
 
 - [**photo_randomizor_and_powerpoint_maker**](https://github.com/SleepyE5/photo_randomizor_and_powerpoint_maker) —
   C# tool that randomises photos into a PowerPoint deck.
-- [**Crackcraft-Github**](https://github.com/SleepyE5/Crackcraft-Github) — Minecraft modpack I maintain.
 - **Echo Hunter** and **Anomalocaris** — Unity/C# projects I'm building; private until they're ready to show.
   Level-design coursework lives in private repos too.
 
 ## Open source contributions
 
 One merged PR to upstream [Mudlet](https://www.mudlet.org): [listing Fablerift in the "All games" catalog](https://github.com/Mudlet/Mudlet/pull/12629).
-I read a lot of Mudlet's Lua scripting surface while building Fablerift's client, which is where that came from.
 
 ## How I work
 
-- C# and .NET are my daily tools; Unity and C# for the game projects, Lua for MUD client scripting.
+- C# and .NET are my daily tools; Unity and C# for the game projects.
 - I ship in small versions and keep release notes, changelog and system requirements current rather than aspirational.
 - Everything I claim here is something I can point at. Stats, player counts and tools I haven't actually used don't go on the page.
 
