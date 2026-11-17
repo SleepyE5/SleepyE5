@@ -17,8 +17,8 @@ and counting, released through v1.5.1.
 - Ships with native launcher and per-platform installers (Windows MSI, Linux AppImage, macOS arm64), SHA-256
   checked downloads, and a self-updating launcher that keeps the two previous installs for rollback.
 - Embedded web admin panel for running a server, plus a public server list the client reads.
-- Seven regions whose forest, coast, desert and frozen peak change with night and weather; crafting, cooking,
-  player trading, party dungeons and a five-chapter story.
+- Ten regions and 243 hand-written rooms — forest, coast, desert and frozen peak that change with night and
+  weather; crafting, cooking, player trading, party dungeons and a five-chapter story.
 
 The source is currently a private repo; the [release and download page](https://github.com/SleepyE5/Fablerift-releases)
 is public and is what the launcher reads.
