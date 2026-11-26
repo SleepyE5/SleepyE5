@@ -1,7 +1,7 @@
 # Enrico Sgiarovello
 
 I build and ship software myself — currently **Fablerift**, a modern MUD you can start playing in about a
-minute, plus the launcher, installers, update system and hosting kit around it. Solo author, 441 commits
+minute, plus the launcher, installers, update system and hosting kit around it. Solo author, 606 commits
 and counting, released through v1.5.1.
 
 [![Play in your browser](https://img.shields.io/badge/Play%20now-fablerift-2ea44f?style=flat-square)](https://play.fablerift.net/)
