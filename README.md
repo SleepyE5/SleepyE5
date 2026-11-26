@@ -2,7 +2,7 @@
 
 I build and ship software myself — currently **Fablerift**, a modern MUD you can start playing in about a
 minute, plus the launcher, installers, update system and hosting kit around it. Solo author, 606 commits
-and counting, released through v1.5.6.
+and counting, released through v1.6.6.
 
 [![Play in your browser](https://img.shields.io/badge/Play%20now-fablerift-2ea44f?style=flat-square)](https://play.fablerift.net/)
 [![Latest release](https://img.shields.io/github/v/release/SleepyE5/Fablerift-releases?style=flat-square&label=Fablerift)](https://github.com/SleepyE5/Fablerift-releases/releases/latest)
