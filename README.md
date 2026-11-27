@@ -1,5 +1,3 @@
-<div align="center">
-
 ```text
       /|\
      / | \        F A B L E R I F T
@@ -21,7 +19,6 @@ you can be playing in about a minute.
 [![Latest release](https://img.shields.io/github/v/release/SleepyE5/Fablerift-releases?style=flat-square&label=release&color=2ea44f)](https://github.com/SleepyE5/Fablerift-releases/releases/latest)
 [![Licence](https://img.shields.io/badge/licence-all%20rights%20reserved-blue?style=flat-square)](https://fablerift.net/LICENSE)
 
-</div>
 
 ---
 
