@@ -1,15 +1,8 @@
-```text
-      /|\
-     / | \        F A B L E R I F T
-    |  ◆  |       ─────────────────
-     \ | /        The Rift is open. Step through.
-      \|/
-```
+# Enrico Sgiarovello
 
-### Enrico Sgiarovello
-
-Solo developer. I build and run **[Fablerift](https://fablerift.net/)**, a multiplayer text RPG
-you can be playing in about a minute.
+Solo developer. I build and run **[Fablerift](https://fablerift.net/)**, a multiplayer text RPG you can be playing
+in about a minute, along with everything around it: the desktop app, the launcher and its updates, the installers,
+the hosting kit and the official server.
 
 [Play in your browser](https://play.fablerift.net/) &nbsp;·&nbsp;
 [Website](https://fablerift.net/) &nbsp;·&nbsp;
@@ -19,65 +12,20 @@ you can be playing in about a minute.
 [![Latest release](https://img.shields.io/github/v/release/SleepyE5/Fablerift-releases?style=flat-square&label=release&color=2ea44f)](https://github.com/SleepyE5/Fablerift-releases/releases/latest)
 [![Licence](https://img.shields.io/badge/licence-all%20rights%20reserved-blue?style=flat-square)](https://fablerift.net/LICENSE)
 
-
 ---
 
 ## Fablerift
 
-The world is rooms you walk through and read, and everything you do is a word you type.
+The world is rooms you walk through and read, and everything you do is a word you type. Ten regions and 247
+hand-written rooms, from pine forest and storm coast to desert and frozen peaks, change with night and weather. You
+gather, craft, cook, trade with other players, clear dungeons as a party and follow a five-chapter story.
 
-```text
-> east
-You head east.
-
-The Wayfarer's Arch
-The flagstone path ends at a tall arch of weathered stone, its keystone carved
-with the shapes of seven lands. Beyond it the silver-green sky gives way to
-ordinary daylight and the dark green of a pine forest. A signpost leans beside
-the path.
-
-[ Exits: west and east ]
-
-> party list
-Your party:
-  - Wren [63/96 HP] (leader)
-  - Ash  [93/93 HP]
-```
-
-Ten regions and 247 hand-written rooms, from pine forest and storm coast to desert and frozen peaks, that change
-with night and weather. You gather, craft, cook, trade with other players, clear dungeons as a party and follow a
-five-chapter story.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**One world, any way in**
-
-The browser, the desktop app, Telnet, SSH and Mudlet all reach the same server. The browser is the real game,
-not a demo.
-
-</td>
-<td width="33%" valign="top">
-
-**Shipped, not just built**
-
-679 commits and released through v1.8.0, with installers for Windows, Linux and macOS and a launcher that
-updates itself and can roll back.
-
-</td>
-<td width="33%" valign="top">
-
-**Run your own world**
-
-A hosting kit for Debian or Proxmox with backups every 15 minutes, health checks, auto rollback and a web admin
-panel.
-
-</td>
-</tr>
-</table>
-
-### Built with
+- **One world, any way in.** The browser, the desktop app, Telnet, SSH and Mudlet all reach the same server. The
+  browser is the real game, not a demo.
+- **Shipped, not just built.** 679 commits and released through v1.8.0, with installers for Windows, Linux and
+  macOS and a launcher that updates itself and can roll back.
+- **Run your own world.** A hosting kit for Debian or Proxmox with backups every 15 minutes, health checks,
+  automatic rollback and a web admin panel.
 
 | Part | What it runs on |
 |---|---|
@@ -86,11 +34,7 @@ panel.
 | Hosting | Debian, systemd, Caddy, Cloudflare Tunnel, Tailscale Funnel |
 | Source | Private. Downloads and the server list are in [Fablerift-releases](https://github.com/SleepyE5/Fablerift-releases) |
 
-Try it from a terminal:
-
-```sh
-telnet mud.fablerift.net 4000
-```
+Try it from a terminal with `telnet mud.fablerift.net 4000`.
 
 ---
 
