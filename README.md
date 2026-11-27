@@ -1,23 +1,23 @@
 # Enrico Sgiarovello
 
 I build and ship software myself — currently **Fablerift**, a modern MUD you can start playing in about a
-minute, plus the launcher, installers, update system and hosting kit around it. Solo author, 606 commits
-and counting, released through v1.6.6.
+minute, plus the launcher, installers, update system and hosting kit around it. Solo author, 679 commits
+and counting, released through v1.8.0.
 
 [![Play in your browser](https://img.shields.io/badge/Play%20now-fablerift-2ea44f?style=flat-square)](https://play.fablerift.net/)
 [![Latest release](https://img.shields.io/github/v/release/SleepyE5/Fablerift-releases?style=flat-square&label=Fablerift)](https://github.com/SleepyE5/Fablerift-releases/releases/latest)
-[![MIT license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/SleepyE5/Fablerift/blob/main/LICENSE)
+[![Licence](https://img.shields.io/badge/licence-all%20rights%20reserved-blue?style=flat-square)](https://fablerift.net/LICENSE)
 
 ## What I'm building
 
-**Fablerift** — text-based multiplayer RPG server and client in C# on .NET 9, MIT-licensed.
+**Fablerift** — text-based multiplayer RPG server and client in C# on .NET 9. Free to play, self-host and mod; all rights reserved.
 
 - Players join from a browser, plain Telnet, or SSH against the *same* server — the browser client is the real
   world, not a demo build.
 - Ships with native launcher and per-platform installers (Windows MSI, Linux AppImage, macOS arm64), SHA-256
   checked downloads, and a self-updating launcher that keeps the two previous installs for rollback.
 - Embedded web admin panel for running a server, plus a public server list the client reads.
-- Ten regions and 243 hand-written rooms — forest, coast, desert and frozen peak that change with night and
+- Ten regions and 247 hand-written rooms — forest, coast, desert and frozen peak that change with night and
   weather; crafting, cooking, player trading, party dungeons and a five-chapter story.
 
 The source is currently a private repo; the [release and download page](https://github.com/SleepyE5/Fablerift-releases)
